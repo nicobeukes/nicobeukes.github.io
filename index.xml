@@ -22,5 +22,14 @@ For Windows users please follow the below steps:
  Create a folder on your machine where you will be doing your python development. You can do this anywhere you want. Call this folder python. Open the following link in your browser.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://nicobeukes.github.io/posts/my-second-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicobeukes.github.io/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
