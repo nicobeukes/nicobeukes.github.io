@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>My ECOND Post</title>
+      <link>https://nicobeukes.github.io/posts/my-second-post/</link>
+      <pubDate>Tue, 20 Jul 2021 05:41:50 +0200</pubDate>
+      
+      <guid>https://nicobeukes.github.io/posts/my-second-post/</guid>
+      <description>Python Introduction Second Python Before we can start you first need to have a working version of Python on your system. For most linux users you will already have some version of python installed.
+For Windows users please follow the below steps:
+ Create a folder on your machine where you will be doing your python development. You can do this anywhere you want. Call this folder python. Open the following link in your browser.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://nicobeukes.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 20 Jul 2021 05:41:50 +0200</pubDate>
@@ -20,15 +31,6 @@
       <description>Python Introduction Download Python Before we can start you first need to have a working version of Python on your system. For most linux users you will already have some version of python installed.
 For Windows users please follow the below steps:
  Create a folder on your machine where you will be doing your python development. You can do this anywhere you want. Call this folder python. Open the following link in your browser.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicobeukes.github.io/posts/my-second-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicobeukes.github.io/posts/my-second-post/</guid>
-      <description></description>
     </item>
     
   </channel>
