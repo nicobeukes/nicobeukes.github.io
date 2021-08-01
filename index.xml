@@ -17,7 +17,7 @@
       <pubDate>Tue, 20 Jul 2021 05:41:50 +0200</pubDate>
       
       <guid>https://nicobeukes.github.io/tools/json/</guid>
-      <description> class Voila { public: // Voila static const string VOILA = &#34;Voila&#34;; // will not interfere with embedded tags. }  </description>
+      <description>ACE in Action #editor { position: absolute; top: 0; right: 0; bottom: 0; left: 0; }  function foo(items) { var x = &#34;All this is syntax highlighted&#34;; return x; }   var editor = ace.edit(&#34;editor&#34;); editor.setTheme(&#34;ace/theme/monokai&#34;); editor.session.setMode(&#34;ace/mode/javascript&#34;);  </description>
     </item>
     
     <item>
