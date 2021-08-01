@@ -17,8 +17,7 @@
       <pubDate>Tue, 20 Jul 2021 05:41:50 +0200</pubDate>
       
       <guid>https://nicobeukes.github.io/tools/json/</guid>
-      <description>{{ if .Params.js }}
-{{ end }}</description>
+      <description>   </description>
     </item>
     
     <item>
